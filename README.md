@@ -1,5 +1,5 @@
-## 一些在学习 React 过程中的小练习项目
-## Some small exercises in learning React
+# 一些在学习 React 过程中的小练习项目
+### Some small exercises in learning React
 
 - 井字棋游戏 Tic-Tac-Logic
 - 产品筛选列表 Product Filter
